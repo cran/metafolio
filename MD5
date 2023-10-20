@@ -1,4 +1,4 @@
-3704b725afaea0140cd1d3a34bdb1a35 *DESCRIPTION
+c4509a7f5fc7d572d0ab4e40b4f649bc *DESCRIPTION
 7642a90cefd0ea429a3e211530b9e3ad *NAMESPACE
 ca26a0ae12a119590387541971b00ea1 *R/RcppExports.R
 f6fa8ce525174b40b47ff8391e25ad4d *R/count_quasi_exts.R
@@ -10,7 +10,7 @@ e0c054c9bff01962b518568f7b67c3bc *R/generate_env_ts.R
 4bc2856a5208a08768bc84528db61977 *R/gg_color_hue.R
 ecab7797e71618453686f4dcf6963238 *R/is_quasi_ext.R
 b90b003b28da61314846b19743c2f03b *R/meta_sim.R
-f736928dddcd4fe2761ea952efff9006 *R/metafolio.R
+d2c14006e310a98176d5abf905198ff8 *R/metafolio.R
 2f16f7d38348347ce391020431577ce4 *R/monte_carlo_portfolios.R
 c0a4f226fa03d24054bf7a6be75ebe83 *R/plot_cons_plans.R
 9edc905e4988fbaf666d0a0a38fc4122 *R/plot_correlation_between_returns.R
@@ -22,11 +22,11 @@ c5000b57c1360b30067a9441f80525f6 *R/ricker.R
 737b5d7be1dee62fa71adc792db010de *R/run_cons_plans.R
 4281c56101bc6669915ed9b31080f302 *R/thermal_curve_a.R
 7d3e5cd5502066f5bf34257898e26dba *R/thermal_integration.R
-8c73bb0f2850510cc904056d8563a664 *build/vignette.rds
-25223a2fc830b9ccf870c666ab45bfd5 *inst/CITATION
+dd008798adccd36b430c0441b752dae5 *build/vignette.rds
+f27b2434e40c5bf9b2d2d83fae6a5ea3 *inst/CITATION
 36fba65c837db217836c2e5a2d086c91 *inst/doc/metafolio.R
 fbd2f24926286b28d404d353683d3fc1 *inst/doc/metafolio.Rnw
-c98de47b80f3860102d9326407e84187 *inst/doc/metafolio.pdf
+487418a45b11a75ad8cbcec6894af57a *inst/doc/metafolio.pdf
 c621916c89ba4ca48c7294e7b917dcb7 *inst/examples/README.R
 18e44a86110286bebd20eef94cbef572 *inst/examples/cons_plans2.R
 148a6922e1a2655a1314675aba114525 *inst/examples/cons_plans_n_random_resp_div.R
@@ -51,7 +51,7 @@ c88f13c236cd97f1f80342fb03ad7890 *man/count_quasi_exts.Rd
 8a8f9d1d9e57a98d2278c9c07e60c353 *man/est_beta_params.Rd
 810d1ee535dea413bb2f79d7e4784626 *man/fastlm.Rd
 dc9e89c71566bc8a0af455559ca282ef *man/fit_ricker.Rd
-5c3d2c0db6850c0bf9987e68e1e8aef9 *man/generate_env_ts.Rd
+ed1d63a37447f1f29dc3aab047d23e31 *man/generate_env_ts.Rd
 7d6db479706dd520e94a75f37ded2ac8 *man/generate_straying_matrix.Rd
 8c0336ad7b3aa28f0a622303d6e28733 *man/get_conserv_plans_mv.Rd
 6e2ca6c8f0241d85c2b05910a78ccde8 *man/get_efficient_frontier.Rd
@@ -60,8 +60,8 @@ b2ae714f44c11425818f263baa7dcf1c *man/get_quantile_contour.Rd
 af30cec941a20bf156827df54fdb9f4b *man/gg_color_hue.Rd
 2c272044ef5a5280b7c43270dae4f816 *man/impl_error.Rd
 fd6559130eb5994e0140d7d1c823ff45 *man/is_element.Rd
-810c73cc45c12b9b80ce23656cf4383f *man/meta_sim.Rd
-e8bfa45f82f60683ac914a26d363dd01 *man/metafolio.Rd
+36571df1be76895de77934f4f72c2930 *man/meta_sim.Rd
+b492058ebf7c5eebc2ae4945799a6d01 *man/metafolio.Rd
 a63796f2d4f4274f3f373fa5d6b53622 *man/metasim_base.Rd
 524e4a4d7300cbfbd31119ab1b936b2c *man/monte_carlo_portfolios.Rd
 b2580854e1cf09621a23b38cbc963a41 *man/my.axis.Rd
@@ -79,7 +79,7 @@ c7fa5761029fecfa0f432b6031264e4c *man/ricker_escapement.Rd
 2ddd889122f92d40e6ad1c567ce5f086 *man/run_cons_plans.Rd
 edbd342216c583a87d0c2a0c32cfb927 *man/thermal_area.Rd
 c9a29b5965359057bd67efce40cdd144 *man/thermal_curve_a.Rd
-28197ebed72da9c2cf5f31a364e1a614 *man/thermal_integration.Rd
+1fddfeffb74c419ce4c46635e5451b2f *man/thermal_integration.Rd
 bcc42aaeb0a69ec1b279b42021751d66 *src/Makevars
 c53945312543b7e30eb79e9ea87030f7 *src/Makevars.win
 1a0ead382201b062246ed9edd601fd79 *src/RcppExports.cpp
